@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35431.28
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork7_1", "HomeWork_1\HomeWork7_1.csproj", "{12588491-4020-406F-9D69-64BC57A55AC4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork7_1", "HomeWork7_1\HomeWork7_1.csproj", "{12588491-4020-406F-9D69-64BC57A55AC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork7_2", "HomeWork7_2\HomeWork7_2.csproj", "{7EC9EC39-9BF7-4172-833F-D9D42C15E5A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork7_2", "HomeWork7_2\HomeWork7_2.csproj", "{7EC9EC39-9BF7-4172-833F-D9D42C15E5A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork7_3", "HomeWork7_3\HomeWork7_3.csproj", "{90B285FA-789B-47D9-8F0A-416056C72CC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork7_3", "HomeWork7_3\HomeWork7_3.csproj", "{90B285FA-789B-47D9-8F0A-416056C72CC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork7_4", "HomeWork7_4\HomeWork7_4.csproj", "{004987A1-1406-4E58-919E-F7C37FF6594C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork7_4", "HomeWork7_4\HomeWork7_4.csproj", "{004987A1-1406-4E58-919E-F7C37FF6594C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork7_5", "HomeWork7_5\HomeWork7_5.csproj", "{ADF760B1-BEE8-4987-8C96-562E767AA34C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork7_5", "HomeWork7_5\HomeWork7_5.csproj", "{ADF760B1-BEE8-4987-8C96-562E767AA34C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork7_6_1", "HomeWork7_6_1\HomeWork7_6_1.csproj", "{8C74B6A8-0216-439A-A9B0-915C6E3F9A4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork7_6_1", "HomeWork7_6_1\HomeWork7_6_1.csproj", "{8C74B6A8-0216-439A-A9B0-915C6E3F9A4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork7_6_2", "HomeWork7_6_2\HomeWork7_6_2.csproj", "{970FF1DC-640A-479A-A204-61D5B839C64A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork7_6_2", "HomeWork7_6_2\HomeWork7_6_2.csproj", "{970FF1DC-640A-479A-A204-61D5B839C64A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
